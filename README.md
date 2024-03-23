@@ -7,6 +7,9 @@ The tasks are stored in an SQLite database. The code ensures basic error handlin
 **Generate Password**
 
 This code presents a graphical user interface (GUI) for generating passwords. Here's a brief description of the code:
+
 **Interface Setup**: The code sets up a Tkinter window with labels and entry fields for the user to input their name and desired password length. Another label displays the generated password.
+
 **Password Generation**: Upon clicking the "Generate Password" button, a password of the specified length is randomly generated using a combination of letters (both uppercase and lowercase), digits, and punctuation.
+
 **User Interaction**: The user can click the "Accept" button to display a message indicating that their input has been accepted. Additionally, the "Reset" button clears all the input fields.
