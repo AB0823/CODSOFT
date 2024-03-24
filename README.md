@@ -13,3 +13,7 @@ This code presents a graphical user interface (GUI) for generating passwords. He
 **Password Generation**: Upon clicking the "Generate Password" button, a password of the specified length is randomly generated using a combination of letters (both uppercase and lowercase), digits, and punctuation.
 
 **User Interaction**: The user can click the "Accept" button to display a message indicating that their input has been accepted. Additionally, the "Reset" button clears all the input fields.
+
+**Quiz Game**
+
+This is a simple quiz application built using Tkinter in Python. It allows users to go through a series of questions with multiple-choice answers, tracks their score, and provides feedback on correctness. The user can navigate between questions using "Next" and "Previous" buttons until they complete the quiz. Upon completion, the application displays the user's final score. The GUI is designed to be intuitive and user-friendly, enhancing the quiz-taking experience.
